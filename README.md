@@ -5,4 +5,4 @@ demo https://shebll.github.io/template-two--/#
 ![alt text](https://github.com/shebll/template-two--/blob/main/pics/t2Web.png)
 
 ## ScreenShots of mobile view 
-![alt text](https://github.com/shebll/template-two--/blob/main/pics/t2Mobile.png)
+![alt text](https://github.com/shebll/template-two--/blob/main/pics/t2mob.png)
